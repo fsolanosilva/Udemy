@@ -1,0 +1,7 @@
+bin
+obj
+.vs
+packages
+dados.json
+node_modules
+node_module
